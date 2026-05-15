@@ -1,0 +1,9 @@
+pandas
+pathlib
+os
+datetime
+requests
+yaml
+json
+logging
+subprocesses
